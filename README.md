@@ -1,4 +1,4 @@
 # hello-world
-This is just a repository I guess.. 
+This IS a repository 
 
 Hello! This is a little bit about me :))))))
